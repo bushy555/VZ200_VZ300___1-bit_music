@@ -7,3 +7,6 @@ They were not designed to be able to produce 1-bit music. Yet, here we are.
 These .VZ files are snapshots for any of the VZ emulators, or, with appropriate utilities found elsewhere, can be converted into standard .WAV PCM files that can be played into the cassette port of real hardware (ie, a real physical VZ200 or Laser310 computer)
 .ASM file listings are standard ascii source code listings.
 
+All credits go to their respective creators; being mostly created, modified and churned by Utz and Shiru.
+Others include Tim Follin, Olgen, JDeak, Michael Batty, Lyndon Sharp, Sasa Pusica, Chris Cowley.
+
