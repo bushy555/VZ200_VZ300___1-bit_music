@@ -10,6 +10,6 @@ All .VZ snapshot files execute correctly within the VZ emulator 'VZEM', releases
 Most will work correctly on real hardware.
 
 All credits go to their respective creators; being mostly created, modified and churned by Utz and Shiru.
-Others include Tim Follin, Olgen, JDeak, Michael Batty, Lyndon Sharp, Sasa Pusica, Chris Cowley.
+Others include Tim Follin, Olgen, JDeak, Michael Batty, Lyndon Sharp, Sasa Pusica, Chris Cowley, Mister Beep.
 
 
